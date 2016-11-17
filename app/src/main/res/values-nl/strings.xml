@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CriminalIntent</string>
+    <string name="crime_details_label">Details</string>
+    <string name="crime_report">"%1$s! Het misdrijf was ontdekt op %2$s. %3$s, en "</string>
+    <string name="crime_title_label">Titel</string>
+    <string name="date_picker_title">Datum van misdrijf</string>
+    <string name="crime_report_no_suspect">Er zijn geen verdachten</string>
+    <string name="crime_report_solved">Het misdrijf is opgelost</string>
+    <string name="crime_report_subject">CriminalIntent Misdrijf Rapport</string>
+    <string name="crime_report_suspect">De verdachte is %1$s.</string>
+    <string name="subtitle_format">%1$d misdrijven</string>
+    <string name="time_picker_title">Misdrijf tijd</string>
+    <string name="show_subtitle">Ondertiteling tonen</string>
+    <string name="hide_subtitle">Ondertiteling verbergen</string>
+    <string name="new_crime">Nieuwe Misdrijf</string>
+    <string name="send_report">Stuur misdrijf rapport via</string>
+    <string name="delete_crime">Verwijder Misdrijf</string>
+    <string name="crime_report_unsolved">Het misdrijf is niet opgelost</string>
+    <string name="crime_report_text">Stuur Misdrijf Rapport</string>
+    <string name="crime_solved_label">Opgelost</string>
+    <string name="crime_suspect_text">Kies een verdachte</string>
+    <string name="crime_title_hint">Vul een titel in voor het misdrijf.</string>
+</resources>
